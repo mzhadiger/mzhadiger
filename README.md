@@ -4,13 +4,13 @@
 
 <h1>Mukhammedali Zhadiger</h1>
 
-<h3>Full-Stack Software Engineer · Co-Founder @ Qazaq Connect · CS Senior @ New York Tech</h3>
+<h3>Full Stack Software Engineer · Cofounder @ Qazaq Connect · CS Senior @ New York Tech</h3>
 
-<p><i>Python · Flask · React · Node · SQL. I build products end-to-end, from schema to UI.</i></p>
+<p><i>Python · Flask · React · Node · SQL. I build products from database schema to UI.</i></p>
 
 <p>
   <a href="https://www.linkedin.com/in/mukhammedali-zhadiger"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-SWE%20%7C%20Full--Stack-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-SWE%20%7C%20Full%20Stack-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-New%20York%20City-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -20,11 +20,11 @@
 
 ### 👋 About me
 
-I'm a **Computer Science senior at New York Institute of Technology** and the **co-founder and full-stack engineer of Qazaq Connect**, a startup I've been building since February 2025. I like owning a product end-to-end: database schema, backend logic, APIs, and the UI people actually touch.
+I'm a **Computer Science senior at New York Institute of Technology** and the **cofounder and full stack engineer of Qazaq Connect**, a startup I've been building since February 2025. I like owning a product from start to finish: database schema, backend logic, APIs, and the UI people actually touch.
 
-- 🚀 **Building:** Qazaq Connect: platform and automation bots (full-stack, in production)
+- 🚀 **Building:** Qazaq Connect: platform and automation bots (full stack, in production)
 - 🧠 **Strongest at:** backend engineering, relational database design, REST APIs
-- 🎯 **Looking for:** Software Engineering / Full-Stack roles — NYC, hybrid, or remote
+- 🎯 **Looking for:** Software Engineering and Full Stack roles in NYC, hybrid, or remote
 - 💼 **Also:** IT Support Technician @ NYIT ITS · former External Partner Data Analyst
 
 ---
@@ -51,11 +51,11 @@ I'm a **Computer Science senior at New York Institute of Technology** and the **
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🇰🇿 **Qazaq Connect** | Startup I co-founded. I build the full-stack platform and the automation bots behind it. | HTML · JS · Bots |
-| 🎮 **[CS2 Skin Marketplace](https://github.com/mzhadiger/CS2Market)** | Buy, sell **and rent** CS2 skins. Led a 5-person team as architect: 8 normalized tables, 5 views, an auto-return rental engine using scheduled DB events, and atomic wallet transactions. | Python · Flask · MySQL · Chart.js |
-| 🤖 **[LevelUp](https://github.com/mzhadiger/LevelUp2)** | AI-powered cross-platform game recommender with a chatbot that explains its picks. I built the backend, database, and APIs. | TypeScript · REST · AI |
-| 🍔 **Food Delivery App** | MERN food-ordering site with a real-time cart (Context API) and Stripe payments. | React · Node · Express · MongoDB · Stripe |
-| 🌐 **[yumCrispyWeb](https://github.com/mzhadiger/yumCrispyWeb)** · **[uniWeb](https://github.com/mzhadiger/uniWeb)** | Responsive multi-page sites with a mobile-first layout. | HTML · CSS · JS |
+| 🇰🇿 **Qazaq Connect** | Startup I cofounded. I build the full stack platform and the automation bots behind it. | HTML · JS · Bots |
+| 🎮 **[CS2 Skin Marketplace](https://github.com/mzhadiger/CS2Market)** | Buy, sell **and rent** CS2 skins. Led a team of 5 as architect: 8 normalized tables, 5 views, a rental engine that automatically returns expired rentals using scheduled DB events, and atomic wallet transactions. | Python · Flask · MySQL · Chart.js |
+| 🤖 **[LevelUp](https://github.com/mzhadiger/LevelUp2)** | AI powered game recommender that works across platforms, with a chatbot that explains its picks. I built the backend, database, and APIs. | TypeScript · REST · AI |
+| 🍔 **Food Delivery App** | MERN food ordering site with a live updating cart (Context API) and Stripe payments. | React · Node · Express · MongoDB · Stripe |
+| 🌐 **[yumCrispyWeb](https://github.com/mzhadiger/yumCrispyWeb)** · **[uniWeb](https://github.com/mzhadiger/uniWeb)** | Responsive multipage sites built mobile first. | HTML · CSS · JS |
 | ☕ **QuizGame** | Java Swing quiz app with timers, live feedback, and custom exceptions. | Java · Swing |
 
 ---
