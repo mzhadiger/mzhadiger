@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Mukhammedali%20Zhadiger&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Co-Founder%20%40%20Qazaq%20Connect&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Building+full-stack+products+end-to-end;Python+%7C+Flask+%7C+React+%7C+Node+%7C+SQL;CS+Senior+%40+New+York+Tech;Open+to+SWE+roles+%E2%80%94+NYC+%2F+Remote" alt="Typing SVG" />
+<h1>Mukhammedali Zhadiger</h1>
+
+<h3>Full-Stack Software Engineer · Co-Founder @ Qazaq Connect · CS Senior @ New York Tech</h3>
+
+<p><i>Python · Flask · React · Node · SQL. I build products end-to-end, from schema to UI.</i></p>
 
 <p>
   <a href="https://www.linkedin.com/in/mukhammedali-zhadiger"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
