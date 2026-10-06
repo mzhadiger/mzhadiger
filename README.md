@@ -6,7 +6,7 @@
 
 <h3>Full Stack Software Engineer · Cofounder @ Qazaq Connect · CS Senior @ New York Tech</h3>
 
-<p><i>Python · Flask · React · Node · SQL. I build products from database schema to UI.</i></p>
+<p><i>Python · Java · Flask · React · Node · SQL. I build products from database schema to UI.</i></p>
 
 <p>
   <a href="https://www.linkedin.com/in/mukhammedali-zhadiger"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
