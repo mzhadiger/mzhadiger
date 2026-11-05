@@ -56,7 +56,7 @@ I'm a **Computer Science senior at New York Institute of Technology** and the **
 | 🤖 **[LevelUp](https://github.com/mzhadiger/LevelUp2)** | AI powered game recommender that works across platforms, with a chatbot that explains its picks. I built the backend, database, and APIs. | TypeScript · REST · AI |
 | 🍔 **Food Delivery App** | MERN food ordering site with a live updating cart (Context API) and Stripe payments. | React · Node · Express · MongoDB · Stripe |
 | 🌐 **[yumCrispyWeb](https://github.com/mzhadiger/yumCrispyWeb)** · **[uniWeb](https://github.com/mzhadiger/uniWeb)** | Responsive multipage sites built mobile first. | HTML · CSS · JS |
-| ☕ **QuizGame** | Java Swing quiz app with timers, live feedback, and custom exceptions. | Java · Swing |
+| ☕ **[QuizTrivia](https://github.com/mzhadiger/java-trivia-quiz)** | Java Swing quiz app with timers, live feedback, and custom exceptions. | Java · Swing |
 
 ---
 
